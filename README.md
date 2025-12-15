@@ -16,6 +16,24 @@ The project follows a **complete machine learning workflow**, from data preproce
 
 ---
 
+## 📊 Dataset Source
+
+The dataset used in this project is obtained from **NYC Open Data**, an official open data platform provided by the City of New York.
+
+**Dataset:** Parking Meters Data  
+**Source:** https://data.cityofnewyork.us/Transportation/Parking-Meters-Locations-and-Status/693u-uax6/data_preview
+
+The dataset contains detailed information about parking meters across New York City, including:
+- Parking meter identifiers
+- Geographic coordinates (latitude and longitude)
+- Parking rules and enforcement timings
+- Maximum parking duration
+- Street and borough information
+
+The raw dataset was cleaned, preprocessed, and feature-engineered before being used in the machine learning pipeline.
+
+---
+
 ## 🗂️ Project Structure
 
 ## Complete Workflow Explanation
